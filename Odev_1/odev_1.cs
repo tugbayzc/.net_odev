@@ -13,6 +13,9 @@ namespace odev_1 // Note: actual namespace depends on the project name.
             odev4();            
         }
 
+        //Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin(n). 
+        //Sonrasında kullanıcıdan n adet pozitif sayı girmesini isteyin. Kullanıcının girmiş olduğu sayılardan çift olanlar console'a yazdırın.
+        
         static void odev1()
         {
             Console.WriteLine("Pozitif bir sayı giriniz:");
@@ -35,6 +38,9 @@ namespace odev_1 // Note: actual namespace depends on the project name.
             }                     
         }
 
+        //Bir konsol uygulamasında kullanıcıdan pozitif iki sayı girmesini isteyin (n, m). Sonrasında kullanıcıdan n adet pozitif sayı girmesini isteyin. 
+        //Kullanıcının girmiş olduğu sayılardan m'e eşit yada tam bölünenleri console'a yazdırın.
+        
         static void odev2()
         {
             Console.WriteLine("Lütfen pozitif iki sayı(n,m) giriniz:");
@@ -58,6 +64,11 @@ namespace odev_1 // Note: actual namespace depends on the project name.
 
 
         }
+        
+        
+        //Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n). Sonrasında kullanıcıdan n adet kelime girmesi isteyin.
+        // Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın.
+        
         static void odev3()
         {
             Console.WriteLine("Lütfen pozitif bir sayı(n) giriniz:");
@@ -77,6 +88,10 @@ namespace odev_1 // Note: actual namespace depends on the project name.
             }
             
         }
+        
+        
+        //Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin. Cümledeki toplam kelime ve harf sayısını console'a yazdırın.
+        
         static void  odev4()
         {
             string? cümle;
