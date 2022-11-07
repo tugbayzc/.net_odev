@@ -1,0 +1,15 @@
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/bin/Debug/net6.0/koleksiyonlar_soru_2
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/bin/Debug/net6.0/koleksiyonlar_soru_2.deps.json
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/bin/Debug/net6.0/koleksiyonlar_soru_2.runtimeconfig.json
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/bin/Debug/net6.0/koleksiyonlar_soru_2.dll
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/bin/Debug/net6.0/koleksiyonlar_soru_2.pdb
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.csproj.AssemblyReference.cache
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.AssemblyInfoInputs.cache
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.AssemblyInfo.cs
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.csproj.CoreCompileInputs.cache
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.dll
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/refint/koleksiyonlar_soru_2.dll
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.pdb
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/koleksiyonlar_soru_2.genruntimeconfig.cache
+/Users/tugbayazici/Desktop/pratikler/odev_2/koleksiyonlar_soru_2/obj/Debug/net6.0/ref/koleksiyonlar_soru_2.dll
